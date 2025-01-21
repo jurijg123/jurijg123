@@ -1,2 +1,3 @@
 - 👋 Hi, I’m @jurijg123, Mechanical Engineer.
 - 👀 I’m interested in Machine Learning, AI, CNN, ...
+- 🐍 Mainly using Python
